@@ -51,6 +51,8 @@ header .content {
 
 header .logo {
   flex: 1;
+  font-size: 1.5rem;
+  font-family: "Roboto-Mono-Regular", monospace;
 }
 
 header nav ul {
